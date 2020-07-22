@@ -15,3 +15,10 @@ O curso é ótimo e vale muito a pena para quem quer aprender uma nova ferrament
 https://www.cod3r.com.br/courses/angular-9-essencial
 
 
+## Recursos utilizados
+ 
+ - Visual Studio Code
+ - Node.js
+ - Postmam
+
+
